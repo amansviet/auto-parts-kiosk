@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item xsi:type="Tire">
+    <ItemName>TireName1</ItemName>
+    <ItemNumber>111</ItemNumber>
+    <Cost>200</Cost>
+    <Weight>30</Weight>
+    <TireModelName>TireModel1</TireModelName>
+    <WheelDiameter>11</WheelDiameter>
+  </Item>
+  <Item xsi:type="Wiper">
+    <ItemName>WiperName1</ItemName>
+    <ItemNumber>222</ItemNumber>
+    <Cost>25</Cost>
+    <Weight>1</Weight>
+    <WiperLength>11</WiperLength>
+    <Ship>true</Ship>
+  </Item>
+  <Item xsi:type="Wiper">
+    <ItemName>Wiper2</ItemName>
+    <ItemNumber>222</ItemNumber>
+    <Cost>15</Cost>
+    <Weight>1</Weight>
+    <WiperLength>22</WiperLength>
+    <Ship>false</Ship>
+  </Item>
+  <Item xsi:type="Battery">
+    <ItemName>BatterName1</ItemName>
+    <ItemNumber>333</ItemNumber>
+    <Cost>130</Cost>
+    <Weight>10</Weight>
+    <Voltage>111</Voltage>
+    <Ship>true</Ship>
+  </Item>
+  <Item xsi:type="Battery">
+    <ItemName>BatteryName2</ItemName>
+    <ItemNumber>333</ItemNumber>
+    <Cost>100</Cost>
+    <Weight>10</Weight>
+    <Voltage>222</Voltage>
+    <Ship>false</Ship>
+  </Item>
+</ArrayOfItem>

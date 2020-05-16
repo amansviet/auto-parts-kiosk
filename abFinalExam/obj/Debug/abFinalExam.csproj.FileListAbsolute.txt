@@ -1,0 +1,15 @@
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\MainWindow.g.cs
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\App.g.cs
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam_MarkupCompile.cache
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam_MarkupCompile.lref
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\bin\Debug\abFinalExam.exe.config
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\bin\Debug\abFinalExam.exe
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\bin\Debug\abFinalExam.pdb
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\MainWindow.baml
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam.g.resources
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam.Properties.Resources.resources
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam.csproj.GenerateResource.cache
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam.exe
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam.pdb
+C:\Users\IEUser\source\repos\abFinalExam\abFinalExam\obj\Debug\abFinalExam.csprojAssemblyReference.cache
